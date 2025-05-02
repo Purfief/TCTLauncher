@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.1.1.0</version>
-
-    <url>https://github.com/Purfief/TCTLauncher/releases/download/V/TCTLauncher_v0.1.1.0.zip</url>
-
-    </item>
+    <Version>0.1.1.0</Version>
+    <DownloadUrl>https://github.com/Purfief/TCTLauncher/releases/download/V/TCTLauncher_v0.1.1.0.zip</DownloadUrl>
+</item>
